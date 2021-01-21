@@ -1,0 +1,15 @@
+
+############
+	1 Abrir em alguma ide compartivel com Java 
+	2 Importar o projeto 
+	3 Executar
+
+##########
+	Pelo terminal 
+	1 Entre na pasta
+	cd Pokedex/
+	cd src/
+	cd program/
+	javac  main.java ( para compilar)
+	java main.java
+
