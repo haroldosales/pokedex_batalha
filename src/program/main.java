@@ -23,8 +23,8 @@ public class main {
 		List<Integer> poke2 = new ArrayList<>();
 
 	
-		
-	String poke01 = sc.next();
+	System.out.println("Digite seu pokemon");
+			String poke01 = sc.next();
 	  level = sc.nextInt();
 	while(!( level >= 1 && level <=99)) {
 		System.out.println("Digite Novamente o level");
@@ -64,7 +64,8 @@ public class main {
 		poke1.add(hp01);
 
 	}
-
+	System.out.println("Digite seu pokemon");
+	
 	String poke02 = sc.next();
 
 	  level02 = sc.nextInt();
